@@ -1,0 +1,11 @@
+C:\Users\DELL\source\repos\Photo_Upload\Photo_Upload\obj\Debug\Photo_Upload.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\Photo_Upload\Photo_Upload\obj\Debug\Photo_Upload.Form1.resources
+C:\Users\DELL\source\repos\Photo_Upload\Photo_Upload\obj\Debug\Photo_Upload.Form2.resources
+C:\Users\DELL\source\repos\Photo_Upload\Photo_Upload\obj\Debug\Photo_Upload.Properties.Resources.resources
+C:\Users\DELL\source\repos\Photo_Upload\Photo_Upload\obj\Debug\Photo_Upload.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Photo_Upload\Photo_Upload\obj\Debug\Photo_Upload.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Photo_Upload\Photo_Upload\bin\Debug\Photo_Upload.exe.config
+C:\Users\DELL\source\repos\Photo_Upload\Photo_Upload\bin\Debug\Photo_Upload.exe
+C:\Users\DELL\source\repos\Photo_Upload\Photo_Upload\bin\Debug\Photo_Upload.pdb
+C:\Users\DELL\source\repos\Photo_Upload\Photo_Upload\obj\Debug\Photo_Upload.exe
+C:\Users\DELL\source\repos\Photo_Upload\Photo_Upload\obj\Debug\Photo_Upload.pdb

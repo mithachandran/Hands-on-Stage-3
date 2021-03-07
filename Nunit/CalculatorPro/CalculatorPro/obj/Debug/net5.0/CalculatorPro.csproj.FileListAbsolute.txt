@@ -1,0 +1,14 @@
+/Users/manaskumarbiswas/Projects/CalculatorPro/CalculatorPro/bin/Debug/net5.0/CalculatorPro.deps.json
+/Users/manaskumarbiswas/Projects/CalculatorPro/CalculatorPro/bin/Debug/net5.0/CalculatorPro.runtimeconfig.json
+/Users/manaskumarbiswas/Projects/CalculatorPro/CalculatorPro/bin/Debug/net5.0/CalculatorPro.runtimeconfig.dev.json
+/Users/manaskumarbiswas/Projects/CalculatorPro/CalculatorPro/bin/Debug/net5.0/CalculatorPro.dll
+/Users/manaskumarbiswas/Projects/CalculatorPro/CalculatorPro/bin/Debug/net5.0/ref/CalculatorPro.dll
+/Users/manaskumarbiswas/Projects/CalculatorPro/CalculatorPro/bin/Debug/net5.0/CalculatorPro.pdb
+/Users/manaskumarbiswas/Projects/CalculatorPro/CalculatorPro/obj/Debug/net5.0/CalculatorPro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/manaskumarbiswas/Projects/CalculatorPro/CalculatorPro/obj/Debug/net5.0/CalculatorPro.AssemblyInfoInputs.cache
+/Users/manaskumarbiswas/Projects/CalculatorPro/CalculatorPro/obj/Debug/net5.0/CalculatorPro.AssemblyInfo.cs
+/Users/manaskumarbiswas/Projects/CalculatorPro/CalculatorPro/obj/Debug/net5.0/CalculatorPro.csproj.CoreCompileInputs.cache
+/Users/manaskumarbiswas/Projects/CalculatorPro/CalculatorPro/obj/Debug/net5.0/CalculatorPro.dll
+/Users/manaskumarbiswas/Projects/CalculatorPro/CalculatorPro/obj/Debug/net5.0/ref/CalculatorPro.dll
+/Users/manaskumarbiswas/Projects/CalculatorPro/CalculatorPro/obj/Debug/net5.0/CalculatorPro.pdb
+/Users/manaskumarbiswas/Projects/CalculatorPro/CalculatorPro/obj/Debug/net5.0/CalculatorPro.genruntimeconfig.cache
