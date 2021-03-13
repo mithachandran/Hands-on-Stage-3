@@ -1,0 +1,9 @@
+C:\Users\890028\Downloads\MyFoodSupply (1)\MyFoodSupply\MyFoodSupply\obj\Debug\MyFoodSupply.csproj.CoreCompileInputs.cache
+C:\Users\890028\Downloads\MyFoodSupply (1)\MyFoodSupply\MyFoodSupply\bin\Debug\MyFoodSupply.exe.config
+C:\Users\890028\Downloads\MyFoodSupply (1)\MyFoodSupply\MyFoodSupply\bin\Debug\MyFoodSupply.exe
+C:\Users\890028\Downloads\MyFoodSupply (1)\MyFoodSupply\MyFoodSupply\bin\Debug\MyFoodSupply.pdb
+C:\Users\890028\Downloads\MyFoodSupply (1)\MyFoodSupply\MyFoodSupply\bin\Debug\nunit.framework.dll
+C:\Users\890028\Downloads\MyFoodSupply (1)\MyFoodSupply\MyFoodSupply\bin\Debug\nunit.framework.xml
+C:\Users\890028\Downloads\MyFoodSupply (1)\MyFoodSupply\MyFoodSupply\obj\Debug\MyFoodSupply.csproj.CopyComplete
+C:\Users\890028\Downloads\MyFoodSupply (1)\MyFoodSupply\MyFoodSupply\obj\Debug\MyFoodSupply.exe
+C:\Users\890028\Downloads\MyFoodSupply (1)\MyFoodSupply\MyFoodSupply\obj\Debug\MyFoodSupply.pdb
