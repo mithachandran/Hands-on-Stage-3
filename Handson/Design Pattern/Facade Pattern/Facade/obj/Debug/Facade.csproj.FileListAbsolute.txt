@@ -1,0 +1,14 @@
+C:\Users\DELL\source\Handson-master\Design Pattern\Facade\Facade\bin\Debug\Facade.exe.config
+C:\Users\DELL\source\Handson-master\Design Pattern\Facade\Facade\bin\Debug\Facade.exe
+C:\Users\DELL\source\Handson-master\Design Pattern\Facade\Facade\bin\Debug\Facade.pdb
+C:\Users\DELL\source\Handson-master\Design Pattern\Facade\Facade\obj\Debug\Facade.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\Handson-master\Design Pattern\Facade\Facade\obj\Debug\Facade.exe
+C:\Users\DELL\source\Handson-master\Design Pattern\Facade\Facade\obj\Debug\Facade.pdb
+C:\Users\DELL\source\Handson-master\Design Pattern\Facade\Facade\obj\Debug\Facade.csprojAssemblyReference.cache
+C:\Users\890028\Desktop\Git\Hands-on-Stage-3\Handson\Design Pattern\Facade Pattern\Facade\bin\Debug\Facade.exe.config
+C:\Users\890028\Desktop\Git\Hands-on-Stage-3\Handson\Design Pattern\Facade Pattern\Facade\bin\Debug\Facade.exe
+C:\Users\890028\Desktop\Git\Hands-on-Stage-3\Handson\Design Pattern\Facade Pattern\Facade\bin\Debug\Facade.pdb
+C:\Users\890028\Desktop\Git\Hands-on-Stage-3\Handson\Design Pattern\Facade Pattern\Facade\obj\Debug\Facade.csprojAssemblyReference.cache
+C:\Users\890028\Desktop\Git\Hands-on-Stage-3\Handson\Design Pattern\Facade Pattern\Facade\obj\Debug\Facade.csproj.CoreCompileInputs.cache
+C:\Users\890028\Desktop\Git\Hands-on-Stage-3\Handson\Design Pattern\Facade Pattern\Facade\obj\Debug\Facade.exe
+C:\Users\890028\Desktop\Git\Hands-on-Stage-3\Handson\Design Pattern\Facade Pattern\Facade\obj\Debug\Facade.pdb

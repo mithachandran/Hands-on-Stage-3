@@ -1,0 +1,14 @@
+C:\Users\DELL\source\Handson-master\Design Pattern\Adapter\Adapter\bin\Debug\Adapter.exe.config
+C:\Users\DELL\source\Handson-master\Design Pattern\Adapter\Adapter\bin\Debug\Adapter.exe
+C:\Users\DELL\source\Handson-master\Design Pattern\Adapter\Adapter\bin\Debug\Adapter.pdb
+C:\Users\DELL\source\Handson-master\Design Pattern\Adapter\Adapter\obj\Debug\Adapter.csprojAssemblyReference.cache
+C:\Users\DELL\source\Handson-master\Design Pattern\Adapter\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\Handson-master\Design Pattern\Adapter\Adapter\obj\Debug\Adapter.exe
+C:\Users\DELL\source\Handson-master\Design Pattern\Adapter\Adapter\obj\Debug\Adapter.pdb
+C:\Users\890028\Desktop\Git\Hands-on-Stage-3\Handson\Design Pattern\Adapter Pattern\Adapter\bin\Debug\Adapter.exe.config
+C:\Users\890028\Desktop\Git\Hands-on-Stage-3\Handson\Design Pattern\Adapter Pattern\Adapter\bin\Debug\Adapter.exe
+C:\Users\890028\Desktop\Git\Hands-on-Stage-3\Handson\Design Pattern\Adapter Pattern\Adapter\bin\Debug\Adapter.pdb
+C:\Users\890028\Desktop\Git\Hands-on-Stage-3\Handson\Design Pattern\Adapter Pattern\Adapter\obj\Debug\Adapter.csprojAssemblyReference.cache
+C:\Users\890028\Desktop\Git\Hands-on-Stage-3\Handson\Design Pattern\Adapter Pattern\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\890028\Desktop\Git\Hands-on-Stage-3\Handson\Design Pattern\Adapter Pattern\Adapter\obj\Debug\Adapter.exe
+C:\Users\890028\Desktop\Git\Hands-on-Stage-3\Handson\Design Pattern\Adapter Pattern\Adapter\obj\Debug\Adapter.pdb

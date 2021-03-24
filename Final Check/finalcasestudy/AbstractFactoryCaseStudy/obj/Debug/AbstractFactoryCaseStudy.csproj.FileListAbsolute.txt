@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\finalcasestudy\AbstractFactoryCaseStudy\bin\Debug\AbstractFactoryCaseStudy.exe.config
+C:\Users\DELL\source\repos\finalcasestudy\AbstractFactoryCaseStudy\bin\Debug\AbstractFactoryCaseStudy.exe
+C:\Users\DELL\source\repos\finalcasestudy\AbstractFactoryCaseStudy\bin\Debug\AbstractFactoryCaseStudy.pdb
+C:\Users\DELL\source\repos\finalcasestudy\AbstractFactoryCaseStudy\obj\Debug\AbstractFactoryCaseStudy.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\finalcasestudy\AbstractFactoryCaseStudy\obj\Debug\AbstractFactoryCaseStudy.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\finalcasestudy\AbstractFactoryCaseStudy\obj\Debug\AbstractFactoryCaseStudy.exe
+C:\Users\DELL\source\repos\finalcasestudy\AbstractFactoryCaseStudy\obj\Debug\AbstractFactoryCaseStudy.pdb
+C:\Users\890028\Desktop\Git\Hands-on-Stage-3\finalcasestudy\AbstractFactoryCaseStudy\bin\Debug\AbstractFactoryCaseStudy.exe.config
+C:\Users\890028\Desktop\Git\Hands-on-Stage-3\finalcasestudy\AbstractFactoryCaseStudy\bin\Debug\AbstractFactoryCaseStudy.exe
+C:\Users\890028\Desktop\Git\Hands-on-Stage-3\finalcasestudy\AbstractFactoryCaseStudy\bin\Debug\AbstractFactoryCaseStudy.pdb
+C:\Users\890028\Desktop\Git\Hands-on-Stage-3\finalcasestudy\AbstractFactoryCaseStudy\obj\Debug\AbstractFactoryCaseStudy.csprojAssemblyReference.cache
+C:\Users\890028\Desktop\Git\Hands-on-Stage-3\finalcasestudy\AbstractFactoryCaseStudy\obj\Debug\AbstractFactoryCaseStudy.csproj.CoreCompileInputs.cache
+C:\Users\890028\Desktop\Git\Hands-on-Stage-3\finalcasestudy\AbstractFactoryCaseStudy\obj\Debug\AbstractFactoryCaseStudy.exe
+C:\Users\890028\Desktop\Git\Hands-on-Stage-3\finalcasestudy\AbstractFactoryCaseStudy\obj\Debug\AbstractFactoryCaseStudy.pdb

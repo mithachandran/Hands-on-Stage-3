@@ -1,0 +1,7 @@
+C:\Users\DELL\source\Handson-master\Design Pattern\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+C:\Users\DELL\source\Handson-master\Design Pattern\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\Users\DELL\source\Handson-master\Design Pattern\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Users\DELL\source\Handson-master\Design Pattern\AbstractFactory\AbstractFactory\obj\Debug\AFactory.csprojAssemblyReference.cache
+C:\Users\DELL\source\Handson-master\Design Pattern\AbstractFactory\AbstractFactory\obj\Debug\AFactory.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\Handson-master\Design Pattern\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.exe
+C:\Users\DELL\source\Handson-master\Design Pattern\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.pdb

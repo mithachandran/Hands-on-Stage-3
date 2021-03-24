@@ -1,0 +1,14 @@
+C:\Users\DELL\source\Handson-master\Design Pattern\Builder\Builder\bin\Debug\Builder.exe.config
+C:\Users\DELL\source\Handson-master\Design Pattern\Builder\Builder\bin\Debug\Builder.exe
+C:\Users\DELL\source\Handson-master\Design Pattern\Builder\Builder\bin\Debug\Builder.pdb
+C:\Users\DELL\source\Handson-master\Design Pattern\Builder\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\Handson-master\Design Pattern\Builder\Builder\obj\Debug\Builder.exe
+C:\Users\DELL\source\Handson-master\Design Pattern\Builder\Builder\obj\Debug\Builder.pdb
+C:\Users\DELL\source\Handson-master\Design Pattern\Builder\Builder\obj\Debug\Builder.csprojAssemblyReference.cache
+C:\Users\890028\Desktop\Git\Hands-on-Stage-3\Handson\Design Pattern\BuilderPattern\Builder\bin\Debug\Builder.exe.config
+C:\Users\890028\Desktop\Git\Hands-on-Stage-3\Handson\Design Pattern\BuilderPattern\Builder\bin\Debug\Builder.exe
+C:\Users\890028\Desktop\Git\Hands-on-Stage-3\Handson\Design Pattern\BuilderPattern\Builder\bin\Debug\Builder.pdb
+C:\Users\890028\Desktop\Git\Hands-on-Stage-3\Handson\Design Pattern\BuilderPattern\Builder\obj\Debug\Builder.csprojAssemblyReference.cache
+C:\Users\890028\Desktop\Git\Hands-on-Stage-3\Handson\Design Pattern\BuilderPattern\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+C:\Users\890028\Desktop\Git\Hands-on-Stage-3\Handson\Design Pattern\BuilderPattern\Builder\obj\Debug\Builder.exe
+C:\Users\890028\Desktop\Git\Hands-on-Stage-3\Handson\Design Pattern\BuilderPattern\Builder\obj\Debug\Builder.pdb
